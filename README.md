@@ -14,8 +14,11 @@ install python pip :
 use pip install to install these packages :
 
 ```$ pip install tornardo```
+
 ```$ pip install pycurl```
+
 ```$ pip install twisted```
+
 ```$ pip install pycares```
 
 using the environment variable to set the port without having to make changes to the python code, change the line that this arrow the port of the application to that below :

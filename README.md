@@ -11,15 +11,9 @@ install python pip :
 
 ```$ apt-get install python-pip```
 
-use pip install to install these packages :
+use pip install to install packages necessary for run this helloworld :
 
-```$ pip install tornardo```
-
-```$ pip install pycurl```
-
-```$ pip install twisted```
-
-```$ pip install pycares```
+```$ pip install -r requirements.txt```
 
 using the environment variable to set the port without having to make changes to the python code, change the line that this arrow the port of the application to that below :
 
